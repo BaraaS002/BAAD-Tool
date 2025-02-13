@@ -23,46 +23,34 @@ Ensure your Linux system meets the following requirements:
 ## 📥 Installation & Setup  
 
 ### 1️⃣ **Clone the Repository**  
-```bash
+
 git clone https://github.com/YOUR_USERNAME/BAAD-Security-Tool.git
 cd BAAD-Security-Tool
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3️⃣ Grant Execution Permissions (for Linux users)
-bash
-Copy
-Edit
+
 chmod +x main.py
 chmod +x hash.py
 chmod +x crypto.py
 ▶️ Usage
 Start the main tool
-bash
-Copy
-Edit
+
 python main.py
 or (if you granted execution permissions):
 
-bash
-Copy
-Edit
+
 ./main.py
 Run Log Monitoring
 To start the log monitoring tool manually:
 
-bash
-Copy
-Edit
+
 python hash.py
 Run Encryption Tool
 To start the encryption and decryption module:
 
-bash
-Copy
-Edit
+
 python crypto.py
 ⚙️ How Log Monitoring Works
 The tool monitors /var/log/syslog in real-time for security-related messages.
@@ -71,9 +59,8 @@ Users can manually send alerts via the GUI.
 📊 Example Output
 When running the tool, you will see logs like:
 
-csharp
-Copy
-Edit
+
+
 [INFO] Monitoring started...
 [ALERT] Suspicious activity detected in /var/log/syslog
 [INFO] Sending Telegram alert...
@@ -84,9 +71,7 @@ To configure Telegram notifications:
 Create a bot using BotFather.
 Get your BOT_TOKEN and CHAT_ID.
 Open config.json and update:
-json
-Copy
-Edit
+
 {
   "TELEGRAM_BOT_TOKEN": "your_bot_token_here",
   "CHAT_ID": "your_chat_id_here"
