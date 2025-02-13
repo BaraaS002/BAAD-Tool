@@ -1,5 +1,4 @@
-#لآِِ] للآلآلآلالا
-
+#BAAD Tool
 ## 📌 Introduction  
 A cybersecurity testing tool that sends alerts via Telegram and provides automatic data analysis.
 
