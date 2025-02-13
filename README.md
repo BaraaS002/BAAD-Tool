@@ -27,10 +27,13 @@ Ensure your Linux system meets the following requirements:
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/BAAD-Security-Tool.git
-cd BAAD-Security-Tool
+git clone https://github.com/BaraaS002/BAAD-Tool.git
 ```
+```bash
 
+cd BAAD-Tool
+
+```
 ### 2️⃣ **Install Dependencies**  
 ```bash
 pip install -r requirements.txt
