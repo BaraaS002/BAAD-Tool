@@ -99,11 +99,6 @@ The author is **not responsible** for any misuse or illegal activities.
 
 ---
 
-## 🤝 Contributing  
-Contributions are welcome!  
-1. **Fork** the repository.  
-2. **Create a new branch** for your feature or bug fix.  
-3. **Submit a pull request**.  
 
 ---
 
@@ -113,5 +108,4 @@ For support or inquiries:
 🔗 **GitHub Issues**: [Open an issue](https://github.com/BaraaS002/BAAD-Tool/issues)  
 ```
 
----
 
