@@ -1,6 +1,6 @@
 # 🔒 BAAD Tool - Comprehensive Data Protection  
 
-
+By: Eng Baraa Sahmoud 
 ---
 
 
