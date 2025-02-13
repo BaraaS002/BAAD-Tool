@@ -58,7 +58,7 @@ chmod +x crypto.py
 
 ### **Start the Main Tool**  
 ```bash
-python main.py
+python3 main.py
 ```
 or (if you granted execution permissions):  
 ```bash
