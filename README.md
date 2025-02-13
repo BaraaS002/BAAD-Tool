@@ -66,14 +66,7 @@ or (if you granted execution permissions):
 
 ---
 
-## 📊 Example Output  
-When running the tool, you will see logs like:  
-```bash
-[INFO] Monitoring started...
-[ALERT] Suspicious activity detected in /var/log/syslog
-[INFO] Sending Telegram alert...
-[INFO] Monitoring stopped.
-```
+
 
 ---
 
@@ -96,7 +89,7 @@ When running the tool, you will see logs like:
 ✔️ Expand support for multiple log files.  
 ✔️ Improve keyword detection with regex filtering.  
 ✔️ Introduce log anomaly detection using machine learning.  
-✔️ Add support for email notifications.  
+
 
 ---
 
