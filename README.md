@@ -1,9 +1,8 @@
+# 🔒 BAAD Tool - Comprehensive Data Protection  
 
 
 ---
 
-```markdown
-# 🔒 BAAD Tool - Comprehensive Data Protection  
 
 ## 📌 Overview  
 **BAAD Security Tool** is a powerful Linux-based security tool designed for:  
@@ -57,24 +56,7 @@ or (if you granted execution permissions):
 ./main.py
 ```
 
-### **Run Log Monitoring**  
-To start the log monitoring tool manually:  
-```bash
-python hash.py
-```
 
-### **Run Encryption Tool**  
-To start the encryption and decryption module:  
-```bash
-python crypto.py
-```
-
----
-
-## ⚙️ How Log Monitoring Works  
-- The tool monitors **`/var/log/syslog`** in real-time for security-related messages.  
-- If suspicious keywords are detected (`error`, `failed`, `unauthorized`), an **alert is sent to Telegram**.  
-- Users can **manually send alerts** via the GUI.  
 
 ---
 
@@ -129,15 +111,8 @@ Contributions are welcome!
 ## 📧 Contact  
 For support or inquiries:  
 📩 **Email**: baraa.sahmoud02@gmail.com  
-🔗 **GitHub Issues**: [Open an issue](https://github.com/YOUR_USERNAME/BAAD-Security-Tool/issues)  
+🔗 **GitHub Issues**: [Open an issue](https://github.com/BaraaS002/BAAD-Tool/issues)  
 ```
 
 ---
 
-### **🔹 Why is this README Perfect?**  
-✅ **GitHub-Optimized Formatting** → Uses clear headings, spacing, and bullet points.  
-✅ **Command Blocks** → Ensures easy copy-pasting for users.  
-✅ **Consistent & Readable** → Well-structured sections for installation, usage, and configuration.  
-✅ **Future Enhancements** → Shows potential project improvements.  
-
-**🚀 Ready to publish?** Just replace `"YOUR_USERNAME"` with your actual GitHub username and you're good to go! 😃
