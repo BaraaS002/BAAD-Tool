@@ -8,10 +8,13 @@
 **BAAD Security Tool** is a powerful Linux-based security tool designed for:  
 ✅ **Secure File Encryption** :Implement AES-256 encryption for protecting files and folders with 
 features like password validation and error handling.
+
 ✅ **Integrity Verification** :Enable file hash calculation and comparison using SHA-1, SHA-256, 
 and SHA-512 to ensure data authenticity and detect tampering..  
+
 ✅ **Real-Time Monitoring** : Provide log and system performance monitoring, highlighting 
 suspicious activities and high resource usage, with customizable alerts via Telegram.  
+
 ✅ **User-Friendly GUI** built with `Tkinter`.  
 
 This tool is built **exclusively for Linux** and is ideal for system administrators and security professionals looking for an easy-to-use, automated security monitoring solution.  
